@@ -6,7 +6,8 @@ It gives daily information about incoming/outgoing values.
 It lists and stores the availability rates on a daily basis.
 
 
-Telegram : https://t.me/pi_check
+Telegram : https://t.me/picheck_chat
 Contact : myurdakul@hotmail.com
+
 
 
