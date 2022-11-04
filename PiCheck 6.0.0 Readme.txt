@@ -1,0 +1,2 @@
+The PiCheck application has been rewritten in a different software tool. 
+Do not forget to convert from the Settings page in order not to lose your old data.
