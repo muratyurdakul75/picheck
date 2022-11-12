@@ -5,8 +5,8 @@ It warns you if there is a problem with incoming blocks or internet connection.
 It gives daily information about incoming/outgoing values.
 It lists and stores the availability rates on a daily basis.
 
-***** Supported languages
-English - English
+***** Supported languages<br>
+English - English 
 Türkçe - Turkish
 Deutsch - German
 Français - French
