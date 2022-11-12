@@ -1,33 +1,35 @@
 # picheck 
 
-A program that controls the Pi Node application.
-It warns you if there is a problem with incoming blocks or internet connection.
-It gives daily information about incoming/outgoing values.
-It lists and stores the availability rates on a daily basis.
-
+A program that controls the Pi Node application.<br>
+It warns you if there is a problem with incoming blocks or internet connection.<br>
+It gives daily information about incoming/outgoing values.<br>
+It lists and stores the availability rates on a daily basis.<br>
+<br>
+<br>
 ***** Supported languages<br>
-English - English 
-Türkçe - Turkish
-Deutsch - German
-Français - French
-Italiano - Italian
-日本 - Japanese
-中国人 - Chinese
-Русский - Russian
-한국인 - Korean
-Tiếng Việt - Vietnamese
-Hrvatski - Croatian
+English - English <br>
+Türkçe - Turkish<br>
+Deutsch - German<br>
+Français - French<br>
+Italiano - Italian<br>
+日本 - Japanese<br>
+中国人 - Chinese<br>
+Русский - Russian<br>
+한국인 - Korean<br>
+Tiếng Việt - Vietnamese<br>
+Hrvatski - Croatian<br>
+<br>
+<br>
+
+***** Supported themes<br>
+Blue<br>
+Dark<br>
+Gray<br>
+Silver<br>
 
 
-***** Supported themes
-Blue
-Dark
-Gray
-Silver
 
-
-
-Telegram : https://t.me/picheck_chat
+Telegram : https://t.me/picheck_chat<br>
 Contact : myurdakul@hotmail.com
 
 
