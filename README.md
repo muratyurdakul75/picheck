@@ -5,6 +5,27 @@ It warns you if there is a problem with incoming blocks or internet connection.
 It gives daily information about incoming/outgoing values.
 It lists and stores the availability rates on a daily basis.
 
+***** Supported languages
+English - English
+Türkçe - Turkish
+Deutsch - German
+Français - French
+Italiano - Italian
+日本 - Japanese
+中国人 - Chinese
+Русский - Russian
+한국인 - Korean
+Tiếng Việt - Vietnamese
+Hrvatski - Croatian
+
+
+***** Supported themes
+Blue
+Dark
+Gray
+Silver
+
+
 
 Telegram : https://t.me/picheck_chat
 Contact : myurdakul@hotmail.com
