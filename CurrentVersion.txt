@@ -1,7 +1,1 @@
 ###7.0.0###
-@@@*** What's new ***
-1. Added chart page. You will be able to create graphs in any combination based on daily summary data.
-2. Icons have been changed. Added icons that are more compatible with Dark Mode.
-3. Autostart feature is back.
-4. The auto check time feature is back.
-5. Screen size has been shortened a bit :)@@@
