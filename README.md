@@ -1,12 +1,35 @@
 # picheck 
 
-A program that controls the Pi Node application.
-It warns you if there is a problem with incoming blocks or internet connection.
-It gives daily information about incoming/outgoing values.
-It lists and stores the availability rates on a daily basis.
+A program that controls the Pi Node application.<br>
+It warns you if there is a problem with incoming blocks or internet connection.<br>
+It gives daily information about incoming/outgoing values.<br>
+It lists and stores the availability rates on a daily basis.<br>
+<br>
+<br>
+***** Supported languages<br>
+English - English <br>
+Türkçe - Turkish<br>
+Deutsch - German<br>
+Français - French<br>
+Italiano - Italian<br>
+日本 - Japanese<br>
+中国人 - Chinese<br>
+Русский - Russian<br>
+한국인 - Korean<br>
+Tiếng Việt - Vietnamese<br>
+Hrvatski - Croatian<br>
+<br>
+<br>
+
+***** Supported themes<br>
+Blue<br>
+Dark<br>
+Gray<br>
+Silver<br>
 
 
-Telegram : https://t.me/picheck_chat
+
+Telegram : https://t.me/picheck_chat<br>
 Contact : myurdakul@hotmail.com
 
 
@@ -24,7 +47,7 @@ If you encounter such a situation anywhere, please do not trust and inform me.
 
 ![Image04](https://user-images.githubusercontent.com/86928237/201430565-85d69924-b594-4976-b76d-e8cebb114286.jpg)
 
-![Image05](https://user-images.githubusercontent.com/86928237/201430578-1328a563-e71a-4713-939f-9796e2eae22f.jpg)
+![Image05](https://user-images.githubusercontent.com/86928237/201437265-de02a3f6-1eb8-4bf5-99dd-0b33155ce732.jpg)
 
 ![Image06](https://user-images.githubusercontent.com/86928237/201430590-a439c145-ada1-4ac9-a447-3262599e3b19.jpg)
 
