@@ -1,3 +1,3 @@
 ###8.2.0###
 
-@@@What is new\n\n1. Under the Outgoing and Incoming information on the main page, the country name of the last incoming IP address is displayed. When you click on those fields, you can see more details.\n2. Shows red when Docker RAM > 1000000KB, Pi Network RAM > 700000KB and WSL RAM > 4000000KB. Since this much RAM usage is not normal, it is shown in red as a warning.@@@
+@@@What is new\n\n1. Under the Outgoing and Incoming information on the main page, the country name of the last incoming IP address is displayed. When you click on those fields, you can see more details.\n2. The texts are displayed in red when Docker RAM usage is greater than 1.000.000KB, Pi Network RAM usage is greater than 700.000KB, WSL RAM usage is greater than 4.000.000KB. That much RAM usage means there is a problem. For this reason, a warning is given in red.@@@
