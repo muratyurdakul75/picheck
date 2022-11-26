@@ -1,3 +1,3 @@
-###8.1.0###
+###8.2.0###
 
-@@@What is new\n\n1. A detailed list display has been added when clicking on the amount of RAM used by applications.\n2. Changed the screen title to read "Runing" when in autorun mode\n3. In order not to create too much load, RAM usage amounts will be calculated at 5 minute intervals instead of 1 minute. (There is no workload in the total RAM calculation. For this reason, it will continue to be updated at intervals of 6-7 seconds.)\n4. Total RAM information has been added to the widget page.@@@
+@@@What is new\n\n1. Under the Outgoing and Incoming information on the main page, the country name of the last incoming IP address is displayed. When you click on those fields, you can see more details.\n2. Shows red when Docker RAM > 1000000KB, Pi Network RAM > 700000KB and WSL RAM > 4000000KB. Since this much RAM usage is not normal, it is shown in red as a warning.@@@
