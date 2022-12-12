@@ -39,7 +39,7 @@ If you encounter such a situation anywhere, please do not trust and inform me.
 
 
 
-![image](https://user-images.githubusercontent.com/86928237/207036402-d05af694-78a2-4c3a-8dd0-38cd6fc8ffdb.png)
+![image](https://user-images.githubusercontent.com/86928237/207036633-35cdd27d-407d-4e4a-b039-e86817fb73f9.png)
 
 ![Image02](https://user-images.githubusercontent.com/86928237/201430532-123187d8-c0a0-42f6-8d2e-9ec5149ad8da.jpg)
 
