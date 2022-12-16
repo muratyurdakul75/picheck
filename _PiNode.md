@@ -24,10 +24,10 @@ dig on mobile.<br>
 <br>
 <b>4. What are the bonus earning criteria?</b><br>
 There are 3 criteria.<br>
-<b>&nbsp;&nbsp;&nbsp; 4.1 </b>Number of CPU cores of your processor<br>
+<b>&nbsp;&nbsp;&nbsp; 4.1 </b>Number of CPU cores of your processor.<br>
 &nbsp;&nbsp;&nbsp; <b>4.2</b> Pi Node app uptime (power or internet 
-disconnection affects this time)<br>
-&nbsp;&nbsp;&nbsp; <b>4.3</b> Having ports 31400-31409 open<br>
+disconnection affects this time).<br>
+&nbsp;&nbsp;&nbsp; <b>4.3</b> Having ports 31400-31409 open.<br>
 You earn bonus according to these 3 criteria and you can earn more pi 
 accordingly. Having a very high RAM or internet speed does not add much extra 
 bonus. Enough RAM and a stable internet line that is not too slow is sufficient.<br>
