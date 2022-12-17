@@ -1,3 +1,3 @@
-###8.3.0###
+###8.4.0###
 
-@@@What is new\n1. Clicking the Total RAM area shows the detail.\n2. Added "Prompt on exit" option to settings page.\n3. Improved the display of country names displayed on the Monitor page.\n4. Improved the display of the widget screen in its original location when re-opened.@@@
+@@@What is new\n1. Added history_failure_rate value to Docker page.\n2. Added PiNode Information link to Monitor page.\n3. If the availability rate is updated that day, 'See yo tomorrow' will appear.@@@
