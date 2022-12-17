@@ -64,7 +64,7 @@ equalized. It does not affect the amount of bonus you will earn.<br>
 </b>Sometimes there are situations such as blocks not being synchronized. First 
 of all, be patient and wait 3-4 hours. If the problem still persists, turn off 
 the mark on the &quot;Turn the Node on&quot; screen in the Pi Node application and restart 
-the computer. I'll wait a day if possible. If the blocks are still not 
+the computer. If possible, wait 1 day. If the blocks are still not 
 synchronized, follow the steps below.<br>
 &nbsp;&nbsp;&nbsp; <b>9.1</b> From the Troubleshooting screen in the Pi 
 application, click the &quot;Remove all blockchain data&quot; field and click the &quot;OK&quot; 
