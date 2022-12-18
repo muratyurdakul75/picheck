@@ -34,7 +34,7 @@ bonus. Enough RAM and a stable internet line that is not too slow is sufficient.
 <br>
 <b>5. Is it important to open a port?<br>
 </b>There are 2 types of nodes; Normal Node and Super Node. To become a Super 
-Node, you need to open a port. Also, opening a port is one of the bonus 
+Node, you need to open port. Also, opening a port is one of the bonus 
 criteria. You get more bonuses when the port is open.<br>
 <br>
 <b>6. Why does the incoming value show 0?<br>
