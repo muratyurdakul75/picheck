@@ -1,3 +1,3 @@
-###8.4.0###
+###8.5.0###
 
-@@@What is new\n1. Added history_failure_rate value to Docker page.\n2. Added PiNode Information link to Monitor page.\n3. If the availability rate is updated that day, -See yo tomorrow- will appear.@@@
+@@@What is new\n1. The IP address field is hidden on the Monitor page. When you click on it with the mouse, you will be able to see the IP address.\n2. When you set up a new node, the old node-dated records on the availability page are scratched.\n3. On the Network page, the averages of the ping times in the port control are shown.@@@
