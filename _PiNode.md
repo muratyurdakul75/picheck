@@ -116,6 +116,10 @@ Pi Check application or node problems.<br>
 <a target="_blank" href="https://github.com/muratyurdakul75/picheck">https://github.com/muratyurdakul75/picheck</a><br>
 <b>Pi Check Telegram :</b> <a target="_blank" href="https://t.me/picheck_chat">https://t.me/picheck_chat</a><br>
 <br>
+<br>
+<b>Recommended Docker Version : </b> 4.10.1<br>
+Note: Docker version recommendation is my personal opinion. It is not a general decision.
+<br>
 &nbsp;</font></p>
 
 </body>
