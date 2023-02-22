@@ -1,1 +1,1 @@
-@@@{"notifyid":"0","message":"Welcome to the new notification feature :)\nYou will now be able to see public announcements like this.\n\nI wish you to enjoy the application...\n\nMurat Yurdakul"}@@@
+@@@{"notifyid":"1234","message":"Welcome to the new notification feature :)\nYou will now be able to see public announcements like this.\n\nI wish you to enjoy the application...\n\nMurat Yurdakul"}@@@
