@@ -1,1 +1,1 @@
-@@@{"version":"9.1.1","message":"What's new\n1. The total RAM usage is displayed graphically on the main screen.\n2. Added total disk usage space.\n3. For users who install the PiCheck application for the first time, the PiNode folder is automatically found on first boot."}@@@
+@@@{"version":"9.1.0","message":"What's new\n1. The total RAM usage is displayed graphically on the main screen.\n2. Added total disk usage space.\n3. For users who install the PiCheck application for the first time, the PiNode folder is automatically found on first boot."}@@@
