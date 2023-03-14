@@ -1,2 +1,1 @@
-@@@{"notifyid":"2023.03.11","message":"Pi Check 9.1.0 version is ready. If you haven't installed it yet, you can Check for Updates from the Settings page.","expdate":"2050.01.01","countrylist":""}@@@
-
+@@@{"notifyid":"2023.03.14","message":"Happy Pi Day to all my friends. :)\n\nMurat Yurdakul","expdate":"2050.01.01","countrylist":""}@@@
