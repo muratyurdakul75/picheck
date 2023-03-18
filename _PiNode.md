@@ -103,6 +103,11 @@ bonus. <br>
 You can become a member of the PiCheck telegram channel to get support for the 
 Pi Check application or node problems.<br>
 <br>
+<b>12. How Pi Check notifications work.?</b><br>
+Pi Check notifications do not work by sending messages to your device like notifications on your computer and phone. 
+Pi Check application periodically checks the file at https://github.com/muratyurdakul75/picheck/blob/main/Notify/Nofity.txt. If there is a new message in this file, it will show you. 
+In short, no message is sent to your IP address from anywhere, on the contrary, Pi Check application receives the message from github site.
+<br>
 <br>
 <br>
 <u><b>Recommended links</b></u><br>
