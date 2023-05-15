@@ -1,1 +1,1 @@
-@@@{"notifyid":"2023.05.13","message":"Many users complain that blocks are not synchronized. Please do not take any action and wait.","expdate":"2023.05.15","countrylist":""}@@@
+@@@{"notifyid":"2023.05.15","message":"It seems like the problem of blocks out of sync has been fixed. If you are still having problems, you can try turning the Node switch off and on.","expdate":"2023.05.17","countrylist":""}@@@
