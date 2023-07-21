@@ -122,7 +122,7 @@ In short, no message is sent to your IP address from anywhere, on the contrary, 
 <b>Pi Check Telegram :</b> <a target="_blank" href="https://t.me/picheck_chat">https://t.me/picheck_chat</a><br>
 <br>
 <br>
-<b>Recommended Docker Version : </b> 
+<b>Recommended Docker Version : </b> <br>
 For normal PC (desktop or notebook) : 4.20.1<br>
 For VDS : 4.19.0<br>
 Note: Docker version recommendation is my personal opinion. It is not a general decision.
