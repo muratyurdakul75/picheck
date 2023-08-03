@@ -1,1 +1,1 @@
-@@@{"notifyid":"2023.05.15","message":"It seems like the problem of blocks out of sync has been fixed. If you are still having problems, you can try turning the Node switch off and on.","expdate":"2023.05.17","countrylist":""}@@@
+@@@{"notifyid":"2023.08.03","message":"PiCheck version 10.0.0 is ready.","expdate":"","countrylist":""}@@@
