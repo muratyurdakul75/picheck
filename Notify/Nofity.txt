@@ -1,1 +1,1 @@
-@@@{"notifyid":"2023.12.31","message":"PiCheck wishes all Pioneers a year full of health and beauty  :)","expdate":"2024.01.07","countrylist":""}@@@
+@@@{"notifyid":"2024.01.14","message":"There are rumors that PiNode 0.4.9 will be released soon. If such a version is released, the compatibility of the PiCheck application with the new version will be checked as soon as possible and, if necessary, a new PiCheck version will be released.","expdate":"2024.03.01","countrylist":""}@@@
