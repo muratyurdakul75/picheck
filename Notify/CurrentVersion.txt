@@ -1,1 +1,1 @@
-
+@@@{"version":"11.0.0","message":"What's new\n1. Added Docker folder size to the home screen. You will be able to see the size of the Docker image file.\n2. Added automatic backup for Pi Folder. You can automatically back up the Pi folder from the Settings page.\n3. Added Docker folder size to the Daily Summary list on the Analysis page. You will be able to see how much the folder size has increased on a daily basis.\n4. On the chart page, you will be able to see the Docker Folder Size graphically.\n5. 2 new themes have been added. Lemon and Orange."}@@@
