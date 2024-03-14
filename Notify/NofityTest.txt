@@ -1,1 +1,1 @@
-@@@{"notifyid":"2024.02.21","message":"Some fake sites claim that you can make purchases with PiCoin and request the Pi Wallet password. Please do not trust such sites. Otherwise, you may cause your Pi account to be stolen. For example, the site [pipcm2024.my.canva.site/pichainmall] is a complete fraud. Please do not trust such sites.","expdate":"2024.05.01","countrylist":""}@@@
+@@@{"notifyid":"2024.03.14","message":"Happy Pi Day to all Pioneers.","expdate":"2024.03.16","countrylist":""}@@@
