@@ -1,1 +1,1 @@
-@@@{"version":"11.0.1","message":"What's new\n1. Fixed the problem with Docker Folder Size calculation in some Windows language settings."}@@@
+@@@{"version":"12.0.0","message":"What's new\n1. It was made compatible with PiNode version 0.4.9. Analysis page is not updated in older versions. This problem has been fixed with the new version.\n2. Performance may be a little slower than older versions. I will make improvements to this in the coming days."}@@@
