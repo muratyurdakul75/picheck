@@ -1,1 +1,1 @@
-@@@{"notifyid":"2024.03.15/2","message":"PiCheck 12 has been released and is compatible with PiNode version 0.4.9. Analysis page is not updated in older versions. This problem has been fixed with the new version.","expdate":"2024.04.01","countrylist":""}@@@
+@@@{"notifyid":"2024.03.15/2","message":"PiCheck 13 has been released and is compatible with PiNode version 0.4.9. Analysis page is not updated in older versions. This problem has been fixed with the new version.","expdate":"2024.04.01","countrylist":""}@@@
