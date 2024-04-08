@@ -1,1 +1,1 @@
-@@@{"version":"13.0.0","message":"What's new\n1. Fixed the issue of incorrect text in the Latest block field on the Monitor page. It showed hours instead of minutes.\n2. Some performance improvements have been made. PiCheck application was crashing on low configuration computers."}@@@
+@@@{"version":"13.1.0","message":"What's new\n1. Fixed the issue of incorrect text in the Latest block field on the Monitor page. It showed hours instead of minutes.\n2. Some performance improvements have been made. PiCheck application was crashing on low configuration computers."}@@@
