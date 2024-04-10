@@ -1,1 +1,1 @@
-@@@{"notifyid":"2024.04.08","message":"PiCheck version 13.1.0 has been released.","expdate":"2024.05.01","countrylist":""}@@@
+@@@{"notifyid":"2024.04.10","message":"PiNode version 0.4.10 has been released. You can install over the old version. PiCheck version 13.1 is compatible with version 0.4.10. There is no problem. Good luck.","expdate":"2024.05.01","countrylist":""}@@@
