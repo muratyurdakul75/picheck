@@ -1,1 +1,1 @@
-@@@{"notifyid":"2024.04.25","message":"PiCheck version 13.1 is compatible with PiNode version 0.4.11. We hope you enjoy using it.","expdate":"2024.05.01","countrylist":""}@@@
+@@@{"notifyid":"2027.04.25","message":"PiCheck version 14.0.0 has been released. This new version is compatible with PiNode 0.4.11. We hope you enjoy using it.","expdate":"2024.05.01","countrylist":""}@@@
