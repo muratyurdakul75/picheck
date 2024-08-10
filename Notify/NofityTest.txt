@@ -1,1 +1,1 @@
-@@@{"notifyid":"2027.08.10","message":"PiCheck version 15.0.0 has been released.","expdate":"2024.08.20","countrylist":""}@@@
+@@@{"notifyid":"2024.08.10","message":"PiCheck version 15.0.0 has been released.","expdate":"2024.08.20","countrylist":""}@@@
