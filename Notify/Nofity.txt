@@ -1,1 +1,1 @@
-@@@{"notifyid":"2024.08.10","message":"PiCheck version 15.0.0 has been released.","expdate":"2024.08.20","countrylist":""}@@@
+@@@{"notifyid":"2024.08.14","message":"PiCheck 13 or older versions do not support PiNode 0.4.11. When you set up a new PiNode or log out/in from the PiNode application, there is a possibility that your usage rate will be displayed according to the information of the old account. Therefore, it is recommended to use PiCheck 14 or later version.","expdate":"2024.08.30","countrylist":""}@@@
