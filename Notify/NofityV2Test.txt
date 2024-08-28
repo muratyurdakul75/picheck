@@ -1,8 +1,8 @@
-notifyid:1
-notifydate:2024.08.28
-expdate:2024.09.10
-countrylist:
-message:
+notifyid::1
+notifydate::2024.08.28
+expdate::2024.09.10
+countrylist::
+message::
 What's new
 1. Docker and Pi Node applications automatically restart when they are closed or crashed. Or it will automatically start these applications when Windows starts. Please read the descriptions on the settings page.
 
