@@ -1,14 +1,6 @@
-notifyid::6
-notifydate::2024.08.28
+notifyid::2024.08.14
+notifydate::2024.08.14
 expdate::2024.09.10
 countrylist::
 message::
-What's new
-1. Docker and Pi Node applications automatically restart when they are closed or crashed. Or it will automatically start these applications when Windows starts. Please read the descriptions on the settings page.
-
-2. When you click on the country names you see on the main screen, you will be able to see the IP addresses with masks.
-
-3. Docker WSL Size has been added to the main screen. When you click on these fields, it will show the files.
-
-4. http://www.google.com Unfortunately, I have removed the ability to run Pi Check from another computer. This feature is no longer supported.
-
+PiCheck 13 or older versions do not support PiNode 0.4.11. When you set up a new PiNode or log out/in from the PiNode application, there is a possibility that your usage rate will be displayed according to the information of the old account. Therefore, it is recommended to use PiCheck 14 or later version.
