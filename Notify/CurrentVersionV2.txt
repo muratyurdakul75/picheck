@@ -6,3 +6,5 @@ What's new...
 2. Added battery indicator to the home screen. You can see your battery status or how long the battery will last in case of power outage.
 3. Block counts on the homepage now update in real time.
 4. Fixed an issue where the Pi Node file path used in Crash Checking was not automatically found.
+
+https://github.com/muratyurdakul75/picheck/blob/main/PiCheck%2015.0.0.zip
