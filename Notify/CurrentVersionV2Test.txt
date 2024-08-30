@@ -2,7 +2,7 @@ version::16.0.0
 message::
 What's new...
 
-1. BAdded Power Plan feature. With this update, you can now use different Windows power plans according to the time interval you specify. Your computer will run in Balanced Power mode during the day and automatically switch to High performance mode at night. Or you can do the opposite. Or you can automatically switch your computer to Low power mode when there is a power outage. You can activate this feature from the Settings page.
+1. Added Power Plan feature. With this update, you can now use different Windows power plans according to the time interval you specify. Your computer will run in Balanced Power mode during the day and automatically switch to High performance mode at night. Or you can do the opposite. Or you can automatically switch your computer to Low power mode when there is a power outage. You can activate this feature from the Settings page.
 
 2. Added battery indicator to the home screen. You can see your battery status or how long the battery will last in case of power outage.
 
