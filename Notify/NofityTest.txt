@@ -1,1 +1,1 @@
-@@@{"notifyid":"2024.08.31","message":"PiCheck version 16 has been released. Get it before it runs out...","expdate":"2024.09.02","countrylist":""}@@@
+@@@{"notifyid":"2024.09.03","message":"PiCheck version 16 no longer just monitors the PiNode application. It now provides a healthier PiNode operation with Crash control and Power Plan options. PiCheck is now smarter.","expdate":"2024.09.30","countrylist":""}@@@
