@@ -1,6 +1,6 @@
-notifyid::3
+notifyid::4
 notifydate::2024.09.07
 expdate::2024.09.30
 countrylist::
 message::
-PiCheck version 17 has been released. This version has fixed the availability problem. Also, processor usage, temperature, power and frequency information has been added to the main screen. This feature is currently in beta. It may not work on some computers.
+In PiCheck version 17, the availability issue was fixed and CPU information fields were added. In PiCheck version 17.2, the CPU information field was made more stable. Availability information does not show correctly in versions 16 and older. For this reason, it is recommended to update to PiCheck version 17.2.
