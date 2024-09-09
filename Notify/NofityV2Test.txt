@@ -1,6 +1,6 @@
-notifyid::4
-notifydate::2024.09.07
-expdate::2024.09.30
+notifyid::5
+notifydate::2024.09.09
+expdate::2024.09.11
 countrylist::
 message::
-In PiCheck version 17, the availability issue was fixed and CPU information fields were added. In PiCheck version 17.2, the CPU information field was made more stable. Availability information does not show correctly in versions 16 and older. For this reason, it is recommended to update to PiCheck version 17.2.
+There is currently no access to the Pi servers. Therefore, availability, port control and network health are problematic. Please do not take any action and wait patiently. However, for users waiting to do a Windows Update, this is a good opportunity right now. You can update.
