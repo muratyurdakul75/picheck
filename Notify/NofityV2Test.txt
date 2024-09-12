@@ -1,6 +1,6 @@
-notifyid::5
-notifydate::2024.09.09
-expdate::2024.09.11
+notifyid::6
+notifydate::2024.09.12
+expdate::2024.09.20
 countrylist::
 message::
-There is currently no access to the Pi servers. Therefore, availability, port control and network health are problematic. Please do not take any action and wait patiently. However, for users waiting to do a Windows Update, this is a good opportunity right now. You can update.
+PiCheck version 17.3 has been released. Fixed the issue that caused the application to crash.

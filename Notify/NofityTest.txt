@@ -1,1 +1,1 @@
-@@@{"notifyid":"2024.09.08","message":"PiCheck 16 and earlier versions do not support PiNode availability calculation. You must update to PiCheck 17.","expdate":"2024.09.30","countrylist":""}@@@
+@@@{"notifyid":"2024.09.12","message":"PiCheck version 17.3 has been released. Fixed the issue that caused the application to crash.","expdate":"2024.09.30","countrylist":""}@@@
