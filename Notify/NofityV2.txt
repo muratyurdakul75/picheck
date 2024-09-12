@@ -4,3 +4,5 @@ expdate::2024.09.20
 countrylist::
 message::
 PiCheck version 17.3 has been released. Fixed the issue that caused the application to crash.
+
+https://github.com/muratyurdakul75/picheck/blob/main/PiCheck%2017.3.0.zip
