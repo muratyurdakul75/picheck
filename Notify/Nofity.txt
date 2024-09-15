@@ -1,1 +1,1 @@
-@@@{"notifyid":"2024.09.12","message":"PiCheck version 17.3 has been released. Fixed the issue that caused the application to crash.","expdate":"2024.09.30","countrylist":""}@@@
+@@@{"notifyid":"2024.09.15","message":"Availability information is not displayed correctly on versions 16 and older. Therefore, it is recommended to update to PiCheck version 17.3.","expdate":"2024.10.30","countrylist":""}@@@
