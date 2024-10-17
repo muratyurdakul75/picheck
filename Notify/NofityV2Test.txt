@@ -1,8 +1,6 @@
-notifyid::6
-notifydate::2024.09.12
-expdate::2024.09.20
+notifyid::7
+notifydate::2024.10.17
+expdate::2024.12.31
 countrylist::
 message::
-PiCheck version 17.3 has been released. Fixed the issue that caused the application to crash.
-
-https://github.com/muratyurdakul75/picheck/blob/main/PiCheck%2017.3.0.zip
+Friends who are switching to Testnet2... In the PiCheck application, you need to write testnet2 instead of pi-consensus on the Docker page.

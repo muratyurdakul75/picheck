@@ -1,1 +1,1 @@
-@@@{"notifyid":"2024.09.24","message":"Availability information is not displayed correctly on versions 16 and older. Therefore, it is recommended to update to PiCheck version 17.3.","expdate":"2024.10.30","countrylist":""}@@@
+@@@{"notifyid":"2024.10.17","message":"Friends who are switching to Testnet2... In the PiCheck application, you need to write testnet2 instead of pi-consensus on the Docker page.","expdate":"2024.12.31","countrylist":""}@@@
