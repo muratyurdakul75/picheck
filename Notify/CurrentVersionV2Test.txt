@@ -1,7 +1,7 @@
-version::17.3.0
+version::17.4.0
 message::
 What's new...
 
-1. Fixed an issue that was causing the app to crash.
-
+1. Fixed the "Failed to create WebView2: 0x80070002" error issue that occurred on some computers.
+2. For those using PiCheck for the first time, the default setting is "testnet2".
 

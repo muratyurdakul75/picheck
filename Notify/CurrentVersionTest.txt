@@ -1,1 +1,1 @@
-@@@{"version":"17.3.0","message":"What's new\n\n1. Fixed an issue that was causing the app to crash."}@@@
+@@@{"version":"17.4.0","message":"What's new\n\n1. Fixed the 0x80070002 error issue that occurred on some computers\n2. For those using PiCheck for the first time, the default setting is testnet2"}@@@

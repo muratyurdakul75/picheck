@@ -1,1 +1,1 @@
-@@@{"notifyid":"2024.10.17","message":"Friends who are switching to Testnet2... In the PiCheck application, you need to write testnet2 instead of pi-consensus on the Docker page.","expdate":"2024.12.31","countrylist":""}@@@
+@@@{"notifyid":"2024.11.01","message":"PiCheck version 17.4 has been released.","expdate":"2024.12.31","countrylist":""}@@@
