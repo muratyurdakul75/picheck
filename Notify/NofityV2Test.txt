@@ -1,5 +1,5 @@
-notifyid::9
-notifydate::2024.11.01
+notifyid::10
+notifydate::2024.11.03
 expdate::2024.12.31
 countrylist::
 message::
@@ -7,3 +7,4 @@ PiCheck version 7.4.0 has been released.
 
 1. Fixed the "Failed to create WebView2: 0x80070002" error issue that occurred on some computers.
 2. For those using PiCheck for the first time, the default setting is "testnet2".
+3. Fixed an issue where the PiCheck screen would not open on some computers.
