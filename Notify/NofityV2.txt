@@ -1,7 +1,7 @@
-notifyid::11
-notifydate::2024.11.09
+notifyid::12
+notifydate::2024.11.13
 expdate::2024.12.31
 countrylist::
 message::
 Hi. 
-Users who receive the error "Failed to create WebView2: 0x80070002" need to update to PiCheck version 17.4.0.
+Users who receive the error "Failed to create WebView2: 0x80070002" need to update to PiCheck version 17.5.0.

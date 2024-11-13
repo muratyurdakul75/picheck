@@ -1,1 +1,1 @@
-@@@{"version":"17.4.0","message":"What's new\n\n1. Fixed the 0x80070002 error issue that occurred on some computers\n2. For those using PiCheck for the first time, the default setting is testnet2\n3. Fixed an issue where the PiCheck screen would not open on some computers."}@@@
+@@@{"version":"17.5.0","message":"What's new\n\n1. Fixed the 0x80070002 error issue that occurred on some computers"}@@@
