@@ -1,5 +1,5 @@
-notifyid::12
-notifydate::2024.11.13
+notifyid::13
+notifydate::2024.11.24
 expdate::2024.12.31
 countrylist::
 message::
