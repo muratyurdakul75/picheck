@@ -1,7 +1,8 @@
-notifyid::13
-notifydate::2024.11.24
-expdate::2024.12.31
+notifyid::14
+notifydate::2024.12.30
+expdate::2025.01.05
 countrylist::
 message::
-Hi. 
-Users who receive the error "Failed to create WebView2: 0x80070002" need to update to PiCheck version 17.5.0.
+Happy New Year to all my friends. I wish you a 2025 full of health and beauty... :)
+
+Murat Yurdakul
