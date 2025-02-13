@@ -1,1 +1,1 @@
-@@@{"version":"17.5.0","message":"What's new\n\n1. Fixed the 0x80070002 error issue that occurred on some computers"}@@@
+@@@{"version":"18.0.0","message":"What's new\n\nThe new version of the PiCheck application has been released."}@@@

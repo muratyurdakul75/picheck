@@ -1,6 +1,14 @@
-notifyid::15
+notifyid::16
 notifydate::2025.02.13
-expdate::2025.02.28
+expdate::2025.03.31
 countrylist::
 message::
-PiNode version 0.5.1 has been released. The compatibility of the PiCheck application with the new version will be checked as soon as possible. If you receive an availability error, you can turn off the Availability option from the Settings page for now.
+PiCheck version 18.0 has been released.
+
+What's new...
+
+1. Made compatible with PiNode 0.5.1.
+2. When you click on the country information on the monitor screen, the country information is grouped.
+3. When you click on the "Docker WSL Disk Size" field on the monitor screen, the wrong folder was opened on some computers. Fixed.
+4. Additions have been made to the CPU usage rate on the Docker page. You will be able to see the usage percentage regardless of the number of CPUs.
+5. Prevented a crash in case of an error in the application. (If you see an EXCEPTION line on the log page, it is recommended to restart the application)
