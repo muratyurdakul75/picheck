@@ -1,8 +1,6 @@
-notifyid::14
-notifydate::2024.12.30
-expdate::2025.01.05
+notifyid::15
+notifydate::2025.02.13
+expdate::2025.02.28
 countrylist::
 message::
-Happy New Year to all my friends. I wish you a 2025 full of health and beauty... :)
-
-Murat Yurdakul
+PiNode version 0.5.1 has been released. The compatibility of the PiCheck application with the new version will be checked as soon as possible. If you receive an availability error, you can turn off the Availability option from the Settings page for now.
