@@ -1,8 +1,8 @@
-version::18.0.0
+version::18.1.0
 message::
 What's new...
 
-1. Made compatible with PiNode 0.5.1.
+1. Made compatible with PiNode 0.5.1. (The problem persisted for some users. It was re-edited.)
 2. When you click on the country information on the monitor screen, the country information is grouped.
 3. When you click on the "Docker WSL Disk Size" field on the monitor screen, the wrong folder was opened on some computers. Fixed.
 4. Additions have been made to the CPU usage rate on the Docker page. You will be able to see the usage percentage regardless of the number of CPUs.
