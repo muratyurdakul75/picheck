@@ -1,14 +1,12 @@
-notifyid::17
-notifydate::2025.02.18
-expdate::2025.03.31
+notifyid::18
+notifydate::2025.03.01
+expdate::2025.04.30
 countrylist::
 message::
-PiCheck version 18.1.0 has been released.
+PiCheck version 19.0.0 has been released.
 
 What's new...
 
-1. Made compatible with PiNode 0.5.1. (The problem persisted for some users. It was re-edited.)
-2. When you click on the country information on the monitor screen, the country information is grouped.
-3. When you click on the "Docker WSL Disk Size" field on the monitor screen, the wrong folder was opened on some computers. Fixed.
-4. Additions have been made to the CPU usage rate on the Docker page. You will be able to see the usage percentage regardless of the number of CPUs.
-5. Prevented a crash in case of an error in the application. (If you see an EXCEPTION line on the log page, it is recommended to restart the application)
+1. You will be able to see the value of Pi Coin on the OKX exchange on the home screen and widget screen ( PI/USDT, Min(24h), Max(24h) and Vol(24h) ).
+2. Coffee Donation button added. :) I would like to thank all friends who donated or did not donate.
+
