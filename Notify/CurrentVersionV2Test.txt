@@ -1,13 +1,14 @@
-version::20.0.0
+version::20.1.0
 message::
 *** What's new ***
 
-1. Silent mode feature added. If there is no movement in the PiCheck application within the time you specify, the application will only perform basic operations. Thus, there will be no unnecessary internet and resource waste. Information such as Pi/USD value, System information (CPU, temperature, etc.), Battery status will not be updated in silent mode. All other features will continue to work. To activate/deactivate this setting, see the Power Plan section on the Settings page.
-2. Chinese (Traditional) language support added.
-3. You can turn off the instant display of the Pi value. You can change this setting from the Pi Value section on the Settings page.
-4. You can see the Pi value in the currencies supported by the OKX site. PiCheck will automatically detect when new currencies are added to the OKX site. You can change this setting from the Pi Value section on the Settings page.
-5. Daily increase/decrease rate added under the Pi value. Whether the Pi value is red or green will be determined according to this rate.
-6. When you click on the Pi value, you can see buy/sell orders and daily opening/closing information.
-7. An adjustment was made while checking the internet connection. If the Incoming or Outgoing value is greater than zero, the internet connection will not be checked.
+1. Fixed the issue of not displaying system information (CPU, RAM, etc.) for some users.
+2. Silent mode feature added. If there is no movement in the PiCheck application within the time you specify, the application will only perform basic operations. Thus, there will be no unnecessary internet and resource waste. Information such as Pi/USD value, System information (CPU, temperature, etc.), Battery status will not be updated in silent mode. All other features will continue to work. To activate/deactivate this setting, see the Power Plan section on the Settings page.
+3. Chinese (Traditional) language support added.
+4. You can turn off the instant display of the Pi value. You can change this setting from the Pi Value section on the Settings page.
+5. You can see the Pi value in the currencies supported by the OKX site. PiCheck will automatically detect when new currencies are added to the OKX site. You can change this setting from the Pi Value section on the Settings page.
+6. Daily increase/decrease rate added under the Pi value. Whether the Pi value is red or green will be determined according to this rate.
+7. When you click on the Pi value, you can see buy/sell orders and daily opening/closing information.
+8. An adjustment was made while checking the internet connection. If the Incoming or Outgoing value is greater than zero, the internet connection will not be checked.
 
 *** If you think I deserve some coffee money, you can make a Coffee Donation from the Settings page. :)
