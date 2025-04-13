@@ -1,1 +1,1 @@
-@@@{"notifyid":"2025.03.18","message":"PiCheck version 20.1 has been released.","expdate":"2030.12.31","countrylist":""}@@@
+@@@{"notifyid":"2025.04.13","message":"PiCheck version 20.2 has been released.","expdate":"2030.12.31","countrylist":""}@@@

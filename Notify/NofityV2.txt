@@ -1,14 +1,17 @@
-notifyid::20
-notifydate::2025.03.19
+notifyid::21
+notifydate::2025.04.13
 expdate::2025.12.31
 countrylist::
 message::
-PiCheck version 20.1.0 has been released.
+PiCheck version 20.2.0 has been released.
 
 *** What's new ***
 
-PiCheck version 20.1 has been released. Fixed the issue of not displaying system information (CPU, RAM, etc.) for some users.
+AMD processor support has been added to the CPU information section. 
+Friends who use AMD processors will also be able to see this information.
 
-*** If you think I deserve some coffee money, you can make a Coffee Donation from the Settings page. :)
+
+
+* If you think I deserve some coffee money, you can make a Coffee Donation from the Settings page. :)
 
 
