@@ -1,1 +1,2 @@
 default_container:testnet2
+maxdailycount:5
