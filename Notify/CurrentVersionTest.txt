@@ -1,1 +1,1 @@
-@@@{"version":"20.2.0","message":"What's new\n\nThe new version of the PiCheck application has been released."}@@@
+@@@{"version":"21.0.0","message":"What's new\n\nThe new version of the PiCheck application has been released."}@@@
