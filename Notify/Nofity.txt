@@ -1,1 +1,1 @@
-@@@{"notifyid":"2025.10.23","message":"PiCheck version 21.0.0 has been released.","expdate":"2030.12.31","countrylist":""}@@@
+@@@{"notifyid":"2025.10.28","message":"PiCheck version 21.0.0 has been released. You need to update the Network Health page to the new version to be compatible with PiNode 0.5.4.","expdate":"2030.12.31","countrylist":""}@@@
