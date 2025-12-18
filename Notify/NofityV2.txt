@@ -1,19 +1,10 @@
-notifyid::24
-notifydate::2025.10.28
-expdate::2025.12.31
+notifyid::25
+notifydate::2025.18.12
+expdate::2026.12.31
 countrylist::
 message::
 **** IMPORTANT INFORMATION ****
-For the Network Health page in the PiCheck application to work correctly, you must use PiCheck version 21.0.0. Older versions are not compatible with PiNode 0.5.4.
-
-
-What's new in PiCheck 21.0.0 version...
-
-1. Security checks have been added to prevent Windows Remote Desktop attacks. IP addresses that are causing attacks with Remode Desktop will be blocked. You must activate this from the Network page.
-2. Connection information by country will no longer be lost. This information will be restored when you restart the PiCheck application.
-3. For users with large folder sizes, Docker and WSL disk size calculations were taking too long, causing the PiCheck application to crash. This issue has been fixed.
-4. Network Health calculation has been made compatible with PiNode 0.5.4.
-5. On the Analysis page, you can change the order of the columns in the Summary list as desired. (This change will be lost when you restart the PiCheck application. This change will be made permanent in future versions.)
+Recently, there have been issues with the Pi Network. To see accurate Network Health information in the PiCheck application, you need to use PiCheck version 21. Older versions are incompatible with Pi Node 0.5.4 and therefore display incorrect Network Health information.
 
 If you think I deserve some coffee money, you can make a Coffee Donation from the Settings page. :)
 
