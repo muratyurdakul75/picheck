@@ -1,10 +1,16 @@
-notifyid::25
-notifydate::2025.18.12
+notifyid::26
+notifydate::2025.21.12
 expdate::2026.12.31
 countrylist::
 message::
-**** IMPORTANT INFORMATION ****
-Recently, there have been issues with the Pi Network. To see accurate Network Health information in the PiCheck application, you need to use PiCheck version 21. Older versions are incompatible with Pi Node 0.5.4 and therefore display incorrect Network Health information.
+PiCheck version 21.1.0 has been released.
+
+1. Fixed an issue with connection warnings experienced by some users.
+2. Fixed an issue with automatic page refresh times. Pages were updating more frequently than they should, creating unnecessary load.
+
+*** IMPORTANT WARNING ***
+PiCheck 20 and older versions are not compatible with PiNode 0.5.4 and do not accurately display Network Health values. To see this value correctly, you need to use PiCheck 21 or a newer version.
+
 
 If you think I deserve some coffee money, you can make a Coffee Donation from the Settings page. :)
 

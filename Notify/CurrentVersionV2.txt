@@ -1,14 +1,12 @@
-version::21.0.0
+version::21.1.0
 message::
 *** What's new ***
 
-1. Security checks have been added to prevent Windows Remote Desktop attacks. IP addresses that are causing attacks with Remode Desktop will be blocked. You must activate this from the Network page.
-2. Connection information by country will no longer be lost. This information will be restored when you restart the PiCheck application.
-3. For users with large folder sizes, Docker and WSL disk size calculations were taking too long, causing the PiCheck application to crash. This issue has been fixed.
-4. Network Health calculation has been made compatible with PiNode 0.5.4.
-5. On the Analysis page, you can change the order of the columns in the Summary list as desired. (This change will be lost when you restart the PiCheck application. This change will be made permanent in future versions.)
+1. Fixed an issue with connection warnings experienced by some users.
+2. Fixed an issue with automatic page refresh times. Pages were updating more frequently than they should, creating unnecessary load.
+
+*** IMPORTANT WARNING ***
+PiCheck 20 and older versions are not compatible with PiNode 0.5.4 and do not accurately display Network Health values. To see this value correctly, you need to use PiCheck 21 or a newer version.
 
 If you think I deserve some coffee money, you can make a Coffee Donation from the Settings page. :)
-
-
 
