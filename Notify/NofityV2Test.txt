@@ -1,5 +1,5 @@
 notifyid::26
-notifydate::2025.21.21
+notifydate::2025.12.21
 expdate::2026.12.31
 countrylist::
 message::
