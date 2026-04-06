@@ -1,9 +1,12 @@
-version::21.1.0
+version::21.2.0
 message::
 *** What's new ***
 
-1. Fixed an issue with connection warnings experienced by some users.
-2. Fixed an issue with automatic page refresh times. Pages were updating more frequently than they should, creating unnecessary load.
+1. Fixed an issue where the CPU count was not displayed in the CPU information field on some computers.
+2. Fixed an issue with incorrect power plan settings.
+3. The field where you enter your daily bonus value has been moved to the front.
+4. Fixed a Yandex Metrika warning issue that occurred on some computers.
+5. Several performance improvements have been made.
 
 *** IMPORTANT WARNING ***
 PiCheck 20 and older versions are not compatible with PiNode 0.5.4 and do not accurately display Network Health values. To see this value correctly, you need to use PiCheck 21 or a newer version.
