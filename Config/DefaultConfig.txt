@@ -1,3 +1,3 @@
 default_container:testnet2
 maxdailycount:3
-default_browser:IE
+default_browser:EDGE
