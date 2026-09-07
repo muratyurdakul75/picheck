@@ -1,20 +1,32 @@
-notifyid::27
-notifydate::2025.04.06
+notifyid::28
+notifydate::2026.09.07
 expdate::2026.12.31
 countrylist::
 message::
-PiCheck version 21.2.0 has been released.
+PiCheck version 22.0.0 has been released.
 
-1. Fixed an issue where the CPU count was not displayed in the CPU information field on some computers.
-2. Fixed an issue with incorrect power plan settings.
-3. The field where you enter your daily bonus value has been moved to the front.
-4. Fixed a Yandex Metrika warning issue that occurred on some computers.
-5. Several performance improvements have been made.
+*** What's new ***
 
-*** IMPORTANT WARNING ***
-PiCheck 20 and older versions are not compatible with PiNode 0.5.4 and do not accurately display Network Health values. To see this value correctly, you need to use PiCheck 21 or a newer version.
+1. Metrics that clearly show your computer's performance have been added to the Monitor page. You can see Transaction and Ledger closing times in this area. You can compare these values ​​with your friends and see which of your computers performs better with Stellar Core. You can see more technical details by clicking on this area. (It is normal for the values ​​here to be low in Joining or Catching situations. These values ​​will give the correct figure if you have been Synced for a long time.)
 
+2. The LibreHardwareMonitor file used for calculating CPU information has been updated to a new version. However, this update requires the installation of the PawnIO plugin. If you see "PawnIO required" in the areas where the information is displayed, you can click the button next to it to learn the necessary information.
+
+3. A "Closed" option has been added next to the "Fast" and "Slow" options on the Network Health page. Users who are sure that the ports are open but do not have an incoming connection count can select this option.
+
+4. Some improvements have been made for remote connection attacks. The change has been made so that only the Remote Desktop port is blocked for IP addresses performing remote attacks. Previously, access was blocked for all ports.
+
+5. A stable version of Microsoft Web View has been implemented to address the WebView2 error. You can find this stable version in the PiCheck\WebView2Fixed folder. This way, you will never encounter the WebView2 error again. Since this folder is approximately 600 MB, users can delete it if they wish. However, as Microsoft Web View is automatically updated, the PiCheck application will continue to give errors, and you will need to restart the PiCheck application.
+
+6. The error related to the automatic discovery of the Docker Desktop folder has been fixed.
+
+7. The issue related to updating the Pi currency list has been fixed.
+
+8. The error on the screen where you see the daily Pi values ​​has been fixed.
 
 If you think I deserve some coffee money, you can make a Coffee Donation from the Settings page. :)
+
+
+*** IMPORTANT WARNING ***
+PiCheck 20 and older versions are not compatible with the current PiNode version. You need to use PiCheck 21 or a newer version.
 
 
